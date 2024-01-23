@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style: none;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    background-color: purple;
+    height: 100vh;
+    display: block;
+    
+}
+main{
+    text-align: left;
+    background: white;
+    padding-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+
+}
+header{
+    background-color: purple;
+    position: fixed;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.links{
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        padding: 20px 0;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    
+        }
+        
+        .links a{
+            font-family: popping;
+            align-items: center;
+            text-align: center;
+            background-color: #E26EE5;
+            margin-left: 5px;
+            display: block;
+            padding: 10px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+
+        }
+        .links a:hover{
+            background-color: gray;
+            color: white;
+    
+        }
+        footer{
+            background-color: white;
+            padding: 10px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+.contetnt1with-img{
+    border: 1px solid white;
+    height: 400px;
+    width: 700px;
+
+}
+.contetnt1{
+    border: 1px solid white;
+    height: 400px;
+    width: 700px;
+
+}
+.contetnt1with-img img{
+    width: 100%;
+    height: 400px;
+}
+.divo{
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+
+}
+.divo1{
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+}
+.article1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.content2{
+    border: 1px solid white;
+    height: 400px;
+    width: 700px;
+}
+.jonz{
+    display: flex;
+    flex-wrap: wrap;
+}
+.jonz img{
+    width: 600px;
+    height: 400px;
+    
+}
+.logo img{
+    height: 40px;
+    margin: 5px;
+}
+
